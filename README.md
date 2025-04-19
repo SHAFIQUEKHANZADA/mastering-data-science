@@ -134,3 +134,5 @@ This repo tracks my learning path and daily progress through structured weekly g
 - 💼 Showcase my portfolio to future employers and collaborators
 
 ---
+
+![Alt Text](roadmap.gif)
